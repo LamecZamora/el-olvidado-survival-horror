@@ -1,37 +1,27 @@
 {
-  "name": "El Olvidado - Survival Horror",
+  "name": "El Olvidado",
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
       "$path": "src/ReplicatedStorage"
     },
     "ServerScriptService": {
-      "$className": "ServerScriptService",
       "$path": "src/ServerScriptService"
     },
     "StarterPlayer": {
-      "$className": "StarterPlayer",
-      "StarterPlayerScripts": {
-        "$className": "StarterPlayerScripts",
-        "$path": "src/StarterPlayer/StarterPlayerScripts"
-      },
-      "StarterCharacterScripts": {
-        "$className": "StarterCharacterScripts",
-        "$path": "src/StarterPlayer/StarterCharacterScripts"
-      }
+      "$path": "src/StarterPlayer"
     },
     "Workspace": {
-      "$className": "Workspace",
       "$path": "src/Workspace"
     },
     "Lighting": {
-      "$className": "Lighting",
       "$path": "src/Lighting"
     },
     "SoundService": {
-      "$className": "SoundService",
       "$path": "src/SoundService"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
     }
   }
 }
