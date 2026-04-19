@@ -1,0 +1,32 @@
+# Roblox / Rojo
+*.rbxl
+*.rbxm
+*.rbxlx
+*.rbxmx
+!default.project.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if using wally/npm)
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+test-results/
+
+# Local config (keep template)
+*.local.json
+!*.local.example.json

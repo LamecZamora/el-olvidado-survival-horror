@@ -1,0 +1,486 @@
+ EL OLVIDADO — HISTORIA PRINCIPAL                                                                                                                                                                                                         
+                                                                                                                                                                                                                                             Prólogo: Los Trolelotes                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                             A lo largo de su recorrido por Vael, Eddie encuentra a tres figuras que no encajan en ningún patrón lógico. No son sobrevivientes normales. No tienen miedo. Aparecen donde no deberían y venden lo que nadie debería tener.             
+
+  Ellos mismos tienen un nombre para lo que son: Trolelotes.
+
+  Eddie nunca entiende del todo qué significa eso.
+
+  Ellos tampoco se molestan en explicarlo.
+
+  ---
+  Capítulo 1: El Gato del Centro Comercial
+
+  ZONA 2 — PRIMER ENCUENTRO CON LINCE
+
+  Eddie llega al Centro Comercial con la HG-18 en la mano y tres balas. Los pasillos están oscuros. Las tiendas, saqueadas. Algo se arrastra en los sótanos.
+
+  En el centro del vestíbulo, donde no debería haber nada, hay una mesa.
+
+  Detrás de ella, un gato de pelaje crema con ojos dorados. Sudadera negra. Pantalón negro. Apariencia tranquila y aparentemente tierna.
+
+  Exactamente la trampa que parece.
+
+  —Llegaste lejos —dice el gato sin levantar la vista—. Para alguien que empezó con tres balas, me impresiona que sigas vivo.
+
+  Eddie apunta.
+
+  —¿Qué eres?
+
+  El gato sonríe. Una sonrisa que no llega a los ojos.
+
+  —Un mercader. Me llaman Lince.
+
+  —¿Los mercaderes ahora son gatos?
+
+  —Y los héroes ahora son civiles que se desmayan si ven sangre. ¿Y?
+
+  Eddie baja el arma. No por confianza. Por instinto de supervivencia. Sabe que si el gato quisiera matarlo, ya estaría muerto.
+
+  LO QUE VENDE LINCE:
+  - Armas y modificadores
+  - Mejoras de armamento
+  - Materiales para fabricar explosivos
+  - Munición artesanal
+  - Cuchillos improvisados
+
+  SISTEMA DE COMPRA Y VENTA:
+  Eddie puede venderle objetos valiosos encontrados en el mundo. Lince evalúa cada objeto con una mirada y da su precio.
+
+  Si intentas regatear, Lince cierra la transacción y te mira fijo hasta que te vayas.
+
+  LEMA DE LINCE:
+  "Hasta un trozo de metal con las joyas correctas vale oro."
+
+  CURIOSIDAD:
+  Lince cuida a alguien. No dice quién. No acepta preguntas al respecto.
+
+  Si Eddie se acerca a cierta dirección sin haber ganado la confianza del gato, escuchará el sonido de un arma siendo amartillada antes de ver nada.
+
+  ---
+  Capítulo 2: El Chico del Dragón
+
+  ZONA 3 — PRIMER ENCUENTRO CON NOCTHYR
+
+  La Estación de Policía huele a muerte. Celdas abiertas. Sangre seca en las paredes. Algo encerrado en el sótano que nadie quiso dejar salir.
+
+  Eddie sobrevivió al primer jefe mayor. Está herido. Le tiembla el pulso. La HG-18 pesa como plomo.
+
+  En una celda que debería estar vacía, hay alguien sentado.
+
+  Joven de piel oscura. Cabello blanco. Mirada seria y calculadora.
+
+  Lo acompaña un dragón rojo de tamaño mediano que no habla, no ataca, y no hace nada excepto observar a Eddie con una expresión que comunica claramente que no le agrada.
+
+  —Necesitas curación —dice el joven. No es una pregunta.
+
+  —Necesito respuestas —responde Eddie.
+
+  —Las curaciones existen. Las respuestas... no siempre.
+
+  LO QUE VENDE NOCTHYR:
+  - Venenos para armas cuerpo a cuerpo y munición especial
+  - Curaciones avanzadas de origen incierto
+  - Mejoras biológicas temporales
+
+  SISTEMA DE VENENOS:
+  Aplicables a cuchillos, hachas y munición. Cada veneno tiene efecto distinto:
+  - Parálisis — El enemigo se congela momentáneamente
+  - Daño continuo — Sangrado que se extiende por segundos
+  - Desorientación — El enemigo ataca sin dirección
+  - Eliminación silenciosa — Casos extremos, muerte instantánea
+
+  Las balas envenenadas tienen usos específicos que el jugador descubre experimentando.
+
+  LEMA DE NOCTHYR:
+  "No salvo la vida de las personas. Solo evito que mueran pronto."
+
+  CURIOSIDAD:
+  Nocthyr no es su nombre real. Solo Lince y El Héroe del Chocomilk lo saben.
+
+  Si Eddie pregunta directamente, Nocthyr lo ignora o desvía la conversación.
+
+  Si Eddie escucha a los otros dos mencionar su nombre verdadero, el audio se convierte en estática o palabras sin sentido.
+
+  El juego nunca revela el nombre verdadero.
+
+  ---
+  Capítulo 3: El Héroe del chocomilk
+
+  ZONA 5 — PRIMER ENCUENTRO CON EL HÉROE DEL CHOCOMILK
+
+  Las afueras. El bosque. Más abierto, pero no más seguro.
+
+  Criaturas que cazan por sonido. Las cabañas. El científico botánico.
+
+  Y entre los árboles, una mesa que definitivamente no estaba ahí antes.
+
+  Detrás de ella, alguien esperando.
+
+  Sin nombre oficial. Ropa común, algo desgastada. Expresión que mezcla aburrimiento absoluto con curiosidad genuina.
+
+  —Siéntate —dice. No es una invitación. Es una orden suave.
+
+  Eddie se sienta. No por obediencia. Por cansancio.
+
+  —¿Qué eres?
+
+  —Alguien que ya no puede mejorar.
+
+  —¿Qué significa eso?
+
+  El hombre sonríe. Una sonrisa que no tiene alegría.
+
+  —Significa que tú sí puedes. Y yo no.
+
+  LO QUE VENDE EL HÉROE DEL CHOCOMILK:
+  - Misiones secundarias con recompensas únicas
+  - Información sobre el mundo, infectados y zonas inexploradas
+  - "Progreso garantizado" (contenido varía según lo que Eddie necesita)
+
+  SISTEMA DE MISIONES:
+  Las misiones son opcionales pero sus recompensas son las más valiosas del juego.
+
+  Cada misión está diseñada para:
+  - Llevar a Eddie a lugares que normalmente evitaría
+  - Enfrentarlo con enemigos que requieren estrategia específica
+  - Revelar fragmentos de lore sobre el mundo y los Trolelotes
+
+  LEMA DEL HÉROE DEL CHOCOMILK:
+  "Porque yo ya no puedo mejorar. Alguien tiene que hacerlo."
+
+  CURIOSIDADES:
+
+  Si Eddie pregunta por qué hace esto:
+
+  ▎ "Porque yo ya no puedo mejorar. Alguien tiene que hacerlo."
+
+  Si Eddie pregunta qué era antes:
+
+  ▎ "Alguien que bebía mucho chocomilk."
+
+  No elabora más.
+
+  ---
+  Capítulo 4: La Dinámica de los Trolelotes
+
+  ENCUENTROS CONJUNTOS
+
+  Los tres se conocen. No está claro desde cuándo ni cómo.
+
+  Cuando Eddie los encuentra juntos:
+  - Lince se burla de Eddie con comentarios afilados.
+  - El Héroe del Chocomilk observa con calma y añade algo que suena a filosofía barata pero que siempre tiene razón.
+  - Nocthyr no dice nada. Su dragón tampoco. Ambos miran.
+
+  EJEMPLO DE DIÁLOGO CONJUNTO:
+
+  ▎ Eddie: ¿Qué son ustedes?
+  ▎
+  ▎ Lince: Mercaderes. ¿Necesitas un arma o solo vienes a hacer preguntas estúpidas?
+  ▎
+  ▎ Héroe del Chocomilk: Las preguntas no son estúpidas cuando vienen de alguien que todavía puede aprender.
+  ▎
+  ▎ Nocthyr: ...
+  ▎
+  ▎ (El dragón mira. Eddie siente que lo está juzgando.)
+  ▎
+  ▎ Lince: Lo que él intenta decir, sin usar demasiadas palabras, es que tenemos lo que necesitas. Si puedes pagarlo.
+  ▎
+  ▎ Eddie: ¿Y qué precio tiene la información?
+  ▎
+  ▎ Héroe del Chocomilk: Depende. ¿Qué estás dispuesto a sacrificar por saber?
+  ▎
+  ▎ Eddie: ...
+  ▎
+  ▎ Nocthyr: Nada. El precio es siempre el mismo. Sobrevivir.
+
+  Ninguno explica su origen. Ninguno responde preguntas directas sobre su naturaleza.
+
+  El jugador puede juntar fragmentos a través de diálogos opcionales, pero el cuadro completo nunca se termina de armar.
+
+  Eso es intencional.
+
+  ---
+  Capítulo 5: Progresión de Eddie
+
+  SISTEMA DE NIVELES OCULTO
+
+  Eddie no sabe pelear. Al principio sus disparos son poco precisos, su pulso tiembla y sus movimientos son torpes.
+
+  Con el tiempo mejora, pero nunca se convierte en un soldado.
+
+  NIVEL 1 — CIVIL PURO
+  - Retroceso descontrolado
+  - Puntería inestable
+  - Se fatiga rápido
+  - Comentario de Eddie: "¿Por qué tiembla tanto mi mano?"
+
+  NIVEL 2 — SOBREVIVIENTE
+  - Mejor control
+  - Menos pánico visible
+  - Movimientos más fluidos
+  - Comentario de Eddie: "Empiezo a entender cómo funciona esto."
+
+  NIVEL 3 — CURTIDO
+  - Puntería confiable
+  - Instinto desarrollado
+  - Puede improvisar en combate
+  - Comentario de Eddie: "Sigo sin saber lo que hago. Pero funcionó."
+
+  Nota: El juego no muestra barras de experiencia. Los cambios son sutiles, visuales y narrativos. Eddie mismo los comenta en voz baja.
+
+  ---
+  Capítulo 6: Sistema de Curación
+
+  OBJETOS RECUPERABLELES
+
+  SUERO HIDRATANTE
+  - Recuperación leve
+  - Ideal para daño superficial
+  - Disponibilidad: Común
+  - Descripción: Fabricado por una farmacéutica desconocida con agentes regenerativos leves. Sella heridas y alivia dolores musculares.
+
+  BOTIQUÍN
+  - Recuperación alta, casi instantánea
+  - Disponibilidad: Moderada
+  - Descripción: Suministros básicos de curación. Ideal para combates intensos.
+
+  INFUSIÓN BOTÁNICA
+  - Aumenta salud máxima + resistencia por 2 minutos
+  - Disponibilidad: Muy rara
+  - Solo 4 en todo el juego
+  - Descripción: Fabricada por el científico botánico del bosque con la esencia de tres plantas extremadamente raras. La receta puede replicarse pero los ingredientes son casi imposibles de encontrar.
+
+  ---
+  Capítulo 7: Arsenal Completo
+
+  PISTOLAS
+
+  ┌──────────┬──────────────┬───────────┬───────────────────────────────────────────────────────────────┐
+  │   Arma   │   Calibre    │ Capacidad │                          Descripción                          │
+  ├──────────┼──────────────┼───────────┼───────────────────────────────────────────────────────────────┤
+  │ HG-18    │ .38          │ 12 balas  │ Pistola de uso policial. Primera arma de Eddie.               │
+  ├──────────┼──────────────┼───────────┼───────────────────────────────────────────────────────────────┤
+  │ D-19     │ 9mm          │ 7 balas   │ Daño elevado, más retroceso. Ideal para lugares cerrados.     │
+  ├──────────┼──────────────┼───────────┼───────────────────────────────────────────────────────────────┤
+  │ MILTON-9 │ Revólver 9mm │ 6 balas   │ Eficiente, resistente. Recarga lenta pero existe modificador. │
+  ├──────────┼──────────────┼───────────┼───────────────────────────────────────────────────────────────┤
+  │ MG-ULTRA │ Revólver .44 │ 6 balas   │ Poder devastador. Retroceso muy elevado.                      │
+  └──────────┴──────────────┴───────────┴───────────────────────────────────────────────────────────────┘
+
+  ESCOPETAS
+
+  ┌────────────┬──────────────────────┬─────────────┬─────────────────────────────────────────────────────┐
+  │    Arma    │         Tipo         │  Capacidad  │                     Descripción                     │
+  ├────────────┼──────────────────────┼─────────────┼─────────────────────────────────────────────────────┤
+  │ THUNDER 12 │ Corredera calibre 12 │ 5 cartuchos │ Cañón largo para mayor alcance. De cerca pulveriza. │
+  ├────────────┼──────────────────────┼─────────────┼─────────────────────────────────────────────────────┤
+  │ VAR-P      │ Doble cañón          │ 2 cartuchos │ Acabado clásico. Poco munición pero definitivo.     │
+  └────────────┴──────────────────────┴─────────────┴─────────────────────────────────────────────────────┘
+
+  RIFLES
+
+  ┌────────────┬─────────┬──────────────────┬──────────────────────────────────────────────────┐
+  │    Arma    │ Calibre │    Capacidad     │                   Descripción                    │
+  ├────────────┼─────────┼──────────────────┼──────────────────────────────────────────────────┤
+  │ HUNTER-338 │ .338    │ 5 balas          │ Para mantener distancia. Requiere pulso firme.   │
+  ├────────────┼─────────┼──────────────────┼──────────────────────────────────────────────────┤
+  │ EAGLE EYE  │ .380    │ 1 bala por ciclo │ Mira óptica. Derriba enemigos a larga distancia. │
+  └────────────┴─────────┴──────────────────┴──────────────────────────────────────────────────┘
+
+  ARMAS ESPECIALES Y SECRETAS
+
+  HEAVY 50
+  - Pistola pesada calibre .50 perforante
+  - 7 balas
+  - Advertencia: Puede lesionar las muñecas de Eddie si no tiene experiencia suficiente.
+  - Ubicación: Estación de policía.
+
+  COIL-33X
+  - Arma electromagnética
+  - 1 disparo (consume 3 cargas de batería)
+  - Descripción: Creada por el científico botánico. Proyectiles de magnética sólida acelerados por bobinas de cobre.
+  - Ideal para: Daño colateral.
+
+  BREAKER GUN
+  - Pistola modificada 9mm
+  - 3 balas
+  - Descripción: Modificador de cañón provoca salida de proyectil más rápida. Una bala puede perforar hasta 3 cabezas en línea.
+  - Ubicación: Hospital.
+
+  MEJORAS DISPONIBLES
+
+  - Cargador ampliado
+  - Silenciador
+  - Cargadores rápidos
+  - Mira óptica avanzada
+  - Correas de armas
+  - Munición AP
+  - Cuchillo táctico
+
+  ---
+  Capítulo 8: Los Enemigos de Vael
+
+  INFECTADOS COMUNES
+
+  - Lentos pero resistentes
+  - En grupos son letales
+  - Se atraen por sonido y movimiento brusco
+
+  INFECTADOS CORREDORES
+
+  - Mutación temprana
+  - Más rápidos, menos resistentes
+  - Atacan en ráfagas cortas y se retiran
+  - Difíciles de rastrear
+
+  INFECTADOS BLINDADOS
+
+  - Mutación avanzada
+  - Piel endurecida como corteza
+  - Balas normales rebotan
+  - Debilidad: Puntos específicos que el jugador debe descubrir
+
+  ACECHADORES
+
+  - No atacan de frente
+  - Siguen a Eddie durante zonas largas
+  - Esperan el momento equivocado
+  - No hacen ruido
+  - Solo aparecen en la visión periférica
+
+  JEFES
+
+  Cada zona tiene al menos un jefe con:
+  - Comportamiento único
+  - Debilidades específicas
+  - Una historia implícita que el jugador puede descubrir o ignorar
+
+  ---
+  Capítulo 9: Las 6 Zonas
+
+  ZONA 1 — EL BARRIO
+
+  El apartamento de Eddie. Calles residenciales. El primer contacto con los muertos.
+
+  Tutorial implícito: Aprende a moverte, esconderte, no gastar balas que no tienes.
+
+  ZONA 2 — EL CENTRO COMERCIAL
+
+  Un laberinto de tiendas saqueadas, sótanos oscuros y grupos de sobrevivientes desesperados.
+
+  Nota: No todos los enemigos son muertos.
+
+  Primer encuentro con Lince.
+
+  ZONA 3 — LA ESTACIÓN DE POLICÍA
+
+  Recursos potenciales. Armería. Celdas.
+
+  Secret: Algo encerrado en el sótano que nadie quiso dejar salir.
+
+  Primer jefe mayor.
+
+  Eddie conoce a Nocthyr.
+
+  ZONA 4 — EL HOSPITAL
+
+  El lugar más peligroso de la ciudad. Infectados más avanzados. Mutaciones extrañas. Pasillos sin luz.
+
+  Personaje clave: Un científico escondido en el ala botánica.
+
+  Origen: Las Infusiones Botánicas se originan aquí.
+
+  Arma secreta: BREAKER GUN ubicada en el hospital.
+
+  ZONA 5 — LAS AFUERAS / EL BOSQUE
+
+  Más abierto, pero no más seguro. Criaturas que cazan por sonido. Las cabañas.
+
+  Personaje: El científico botánico.
+
+  Primer encuentro con El Héroe del Chocomilk.
+
+  ZONA 6 — EL CAMINO A PUNTO CERO
+
+  La recta final. Todo lo aprendido se pone a prueba.
+
+  Enemigos: Los infectados más peligrosos.
+
+  Revelación: Una verdad sobre el accidente biológico que cambia todo.
+
+  Decisión: Una decisión final que Eddie tomará solo.
+
+  ---
+  Epílogo: La Nota
+
+  El final depende de las decisiones acumuladas de Eddie a lo largo del recorrido.
+
+  No hay una elección final dramática, sino el resultado natural de cómo jugaste.
+
+  Lo que sí es constante: Eddie llega a Punto Cero.
+
+  Sus padres están ahí o no están.
+
+  En la última escena, antes de que los créditos corran, hay una mesa en algún rincón del refugio militar. Detrás de ella, alguien esperando.
+
+  Eddie no dice nada.
+
+  El Héroe del Chocomilk tampoco.
+
+  Pero en la mesa hay una nota que dice:
+
+  ▎ "Bien hecho. Eso fue solo el primer nivel."
+
+  ---
+  ÁRBOL DE HABILIDADES DE Eddie
+
+  (Nota: El juego no muestra este árbol visualmente. Las mejoras se desbloquean progresivamente mediante la narrativa y el uso.)
+
+                      ┌─────────────────────────────────┐
+                      │     NIVEL 1: CIVIL PURO         │
+                      │  - Sin habilidades especiales   │
+                      │  - Retroceso descontrolado      │
+                      │  - Puntería inestable           │
+                      └───────────────┬─────────────────┘
+                                      │
+                      ┌───────────────▼─────────────────┐
+                      │     NIVEL 2: SOBREVIVIENTE      │
+                      │  - Control de retroceso básico  │
+                      │  - Menos pánico visible         │
+                      │  - Movimientos más fluidos      │
+                      └───────────────┬─────────────────┘
+                                      │
+                      ┌───────────────▼─────────────────┐
+                      │      NIVEL 3: CURTIDO           │
+                      │  - Puntería confiable           │
+                      │  - Instinto desarrollado        │
+                      │  - Improvisación en combate     │
+                      └─────────────────────────────────┘
+
+  ---
+  RESUMEN DE MECÁNICAS PRINCIPALES
+
+  ┌───────────────┬────────────────────────────────────────────────────┐
+  │    Sistema    │                    Descripción                     │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Supervivencia │ Escasez constante. Cada bala cuenta.               │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Combate       │ Eddie mejora pero nunca es soldado.                │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Curación      │ Tres tipos con diferentes niveles de rareza.       │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Comercio      │ Tres mercaderes con especialidades distintas.      │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Misiones      │ Opcionales pero con recompensas únicas.            │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Progresión    │ Oculta, narrativa, sin barras de XP.               │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Enemigos      │ Variedad de infectados con comportamientos únicos. │
+  ├───────────────┼────────────────────────────────────────────────────┤
+  │ Final         │ Determinado por decisiones acumuladas.             │
+  └───────────────┴────────────────────────────────────────────────────┘
+
+  ---
+  FIN DEL DOCUMENTO DE HISTORIA REESTRUCTURADO

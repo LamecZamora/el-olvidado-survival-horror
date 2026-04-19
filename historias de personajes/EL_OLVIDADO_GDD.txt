@@ -1,0 +1,390 @@
+================================================================================
+                         EL OLVIDADO — GAME DESIGN DOCUMENT
+                              Versión Extendida y Revisada
+================================================================================
+
+--------------------------------------------------------------------------------
+CONCEPTO GENERAL
+--------------------------------------------------------------------------------
+
+El Olvidado es un juego de survival horror en tercera persona ambientado en una
+ciudad devastada por un accidente biológico. La experiencia se centra en la
+vulnerabilidad, la escasez y la tensión constante. No eres un héroe. No eres un
+soldado. Eres Eddie, un chico común atrapado en el lugar equivocado en el
+momento equivocado.
+
+La ciudad no es solo el escenario. Es tu enemigo más grande.
+
+Género: Survival Horror clásico
+Cámara: Tercera persona
+Tono: Terror psicológico y vulnerabilidad constante
+
+--------------------------------------------------------------------------------
+HISTORIA
+--------------------------------------------------------------------------------
+
+La ciudad de Vael era normal hasta que dejó de serlo.
+
+Un accidente en un laboratorio farmacéutico subterráneo liberó un agente
+biológico experimental en el sistema de agua potable. En cuestión de horas,
+miles murieron. En cuestión de días, volvieron.
+
+No como fantasmas. No como leyendas. Como hambre.
+
+Eddie Moran, 22 años, estudiante universitario sin habilidades especiales,
+despertó esa mañana con planes normales. Café. Clase. Tal vez comer algo
+decente. En cambio, encontró a su vecino comiendo la puerta de su apartamento.
+
+Sus padres viven al otro lado de la ciudad, cerca del refugio militar Punto
+Cero, el único lugar confirmado como seguro. Entre Eddie y ese refugio hay
+aproximadamente 14 kilómetros de ciudad muerta.
+
+14 kilómetros de pesadilla.
+
+La misión es simple en papel: llegar vivo.
+
+Lo que nadie le dijo a Eddie es que en el camino encontraría cosas que no
+encajan en ningún manual de supervivencia. Sobrevivientes que no son
+exactamente humanos. Mercaderes que aparecen donde no deberían. Un gato con
+actitud de millonario, un chico con un dragón en el hombro, y un tipo que vive
+detrás de una mesa flotante vendiendo esperanza.
+
+Nadie le explicó nada. Eddie solo sigue caminando.
+
+--------------------------------------------------------------------------------
+ESTRUCTURA DEL JUEGO — 6 ZONAS
+--------------------------------------------------------------------------------
+
+ZONA 1 — EL BARRIO
+El apartamento de Eddie. Calles residenciales. El primer contacto con los
+muertos. Tutorial implícito: aprende a moverte, a esconderte, a no gastar
+balas que no tienes.
+
+ZONA 2 — EL CENTRO COMERCIAL
+Un laberinto de tiendas saqueadas, sótanos oscuros y grupos de sobrevivientes
+desesperados. No todos los enemigos son muertos. Primer encuentro con Lince.
+
+ZONA 3 — LA ESTACIÓN DE POLICÍA
+Recursos potenciales. Armería. Celdas. Y algo encerrado en el sótano que
+nadie quiso dejar salir. Primer jefe mayor. Eddie conoce a Nocthyr.
+
+ZONA 4 — EL HOSPITAL
+El lugar más peligroso de la ciudad. Infectados más avanzados. Mutaciones
+extrañas. Pasillos sin luz. Un científico escondido en el ala botánica.
+Las Infusiones Botánicas se originan aquí.
+
+ZONA 5 — LAS AFUERAS / EL BOSQUE
+Más abierto, pero no más seguro. Criaturas que cazan por sonido. Las cabañas.
+El científico botánico. Y entre los árboles, una mesa que no debería estar ahí.
+Primer encuentro con El Héroe del Chocomilk.
+
+ZONA 6 — EL CAMINO A PUNTO CERO
+La recta final. Todo lo aprendido se pone a prueba. Los infectados más
+peligrosos. Una verdad sobre el accidente biológico que cambia todo. Una
+decisión final que Eddie tomará solo.
+
+--------------------------------------------------------------------------------
+SISTEMA DE ENEMIGOS
+--------------------------------------------------------------------------------
+
+INFECTADOS COMUNES
+Lentos pero resistentes. En grupos son letales. Se atraen por sonido y
+movimiento brusco.
+
+INFECTADOS CORREDORES
+Mutación temprana. Más rápidos, menos resistentes. Atacan en ráfagas cortas
+y se retiran. Difíciles de rastrear.
+
+INFECTADOS BLINDADOS
+Mutación avanzada. Piel endurecida como corteza. Balas normales rebotan.
+Puntos débiles específicos que el jugador debe descubrir.
+
+ACECHADORES
+No atacan de frente. Siguen a Eddie durante zonas largas esperando el momento
+equivocado. No hacen ruido. Solo aparecen en la visión periférica.
+
+JEFES
+Cada zona tiene al menos un jefe con comportamiento único, debilidades
+específicas y una historia implícita que el jugador puede descubrir o ignorar.
+
+--------------------------------------------------------------------------------
+COMBATE Y PROGRESIÓN DE EDDIE
+--------------------------------------------------------------------------------
+
+Eddie no sabe pelear. Al principio sus disparos son poco precisos, su pulso
+tiembla y sus movimientos son torpes. Con el tiempo mejora, pero nunca se
+convierte en un soldado.
+
+NIVEL 1 — CIVIL PURO
+Retroceso descontrolado, puntería inestable, se fatiga rápido.
+
+NIVEL 2 — SOBREVIVIENTE
+Mejor control, menos pánico visible, movimientos más fluidos.
+
+NIVEL 3 — CURTIDO
+Puntería confiable, instinto desarrollado, puede improvisar en combate.
+
+Nota: El juego no muestra barras de experiencia. Los cambios son sutiles,
+visuales y narrativos. Eddie mismo los comenta en voz baja.
+
+--------------------------------------------------------------------------------
+SISTEMA DE CURACIÓN
+--------------------------------------------------------------------------------
+
+SUERO HIDRATANTE
+Recuperación leve. Ideal para daño superficial. Disponibilidad: Común.
+Fabricado por una farmacéutica desconocida con agentes regenerativos leves.
+Sella heridas y alivia dolores musculares.
+
+BOTIQUÍN
+Recuperación alta, casi instantánea. Disponibilidad: Moderada.
+Suministros básicos de curación. Ideal para combates intensos.
+
+INFUSIÓN BOTÁNICA
+Aumenta salud máxima + resistencia por 2 minutos. Disponibilidad: Muy rara.
+Solo 4 en todo el juego. Fabricada por el científico botánico del bosque con
+la esencia de tres plantas extremadamente raras. La receta puede replicarse
+pero los ingredientes son casi imposibles de encontrar.
+
+--------------------------------------------------------------------------------
+ARSENAL — PISTOLAS
+--------------------------------------------------------------------------------
+
+HG-18
+Calibre .38 | Capacidad: 12 balas
+Pistola de uso policial. Diseño ideal para mayor control y velocidad de
+desenfunde. Calibre bajo pero manejable. Ideal para principiantes. Primera
+arma de Eddie.
+
+D-19
+Calibre 9mm | Capacidad: 7 balas
+Daño elevado pero con más retroceso. Ideal para lugares cerrados. En manos
+inexpertas el retroceso puede ser un problema serio.
+
+MILTON-9
+Revólver 9mm | Capacidad: 6 balas
+Eficiente, resistente y confiable. Cadencia moderada. Recarga lenta pero
+existe un modificador de recarga rápida encontrable. Difícil que falle.
+
+MG-ULTRA
+Revólver .44 | Capacidad: 6 balas
+Poder de fuego devastador. Retroceso muy elevado. Ideal para situaciones de
+alto riesgo. No recomendado para manos inexpertas.
+
+--------------------------------------------------------------------------------
+ARSENAL — ESCOPETAS
+--------------------------------------------------------------------------------
+
+THUNDER 12
+Escopeta de corredera calibre 12 | Capacidad: 5 cartuchos
+Cañón largo para mayor alcance. De cerca pulveriza cualquier cosa.
+
+VAR-P
+Escopeta de doble cañón | Capacidad: 2 cartuchos
+Acabado clásico. Retroceso moderado. Poca munición pero cada tiro es
+definitivo.
+
+--------------------------------------------------------------------------------
+ARSENAL — RIFLES
+--------------------------------------------------------------------------------
+
+HUNTER-338
+Rifle de cerrojo calibre .338 | Capacidad: 5 balas
+Para mantener distancia. Ideal para objetivos lejanos y enemigos grandes.
+Requiere pulso firme y buena puntería.
+
+EAGLE EYE
+Rifle de tirador calibre .380 | Capacidad: 1 bala por ciclo
+Mira óptica de distancia media-larga. Velocidad de bala alta. Cadencia lenta.
+Derriba enemigos como muñecos de trapo a larga distancia.
+
+--------------------------------------------------------------------------------
+ARSENAL — ARMAS ESPECIALES Y SECRETAS
+--------------------------------------------------------------------------------
+
+HEAVY 50
+Pistola pesada calibre .50 perforante | Capacidad: 7 balas
+Terror de los blindajes. Puede lesionar las muñecas de Eddie si no tiene
+experiencia suficiente. Su poder de fuego no deja nada en pie.
+Ubicación: Estación de policía.
+
+COIL-33X
+Arma electromagnética | Capacidad: 1 disparo (consume 3 cargas de batería)
+Creada por el científico botánico. Proyectiles de magnética sólida acelerados
+por bobinas de cobre. Capaz de perforar concreto. Ideal para daño colateral.
+
+BREAKER GUN
+Pistola modificada 9mm | Capacidad: 3 balas
+Modificador de cañón provoca salida de proyectil más rápida. Una bala puede
+perforar hasta 3 cabezas en línea. Arma secreta.
+Ubicación: Hospital.
+
+--------------------------------------------------------------------------------
+MEJORAS DISPONIBLES
+--------------------------------------------------------------------------------
+
+- Cargador ampliado
+- Silenciador
+- Cargadores rápidos
+- Mira óptica avanzada
+- Correas de armas
+- Munición AP
+- Cuchillo táctico
+
+--------------------------------------------------------------------------------
+LOS MERCADERES — LOS TROLELOTES
+--------------------------------------------------------------------------------
+
+A lo largo de su recorrido, Eddie encuentra a tres figuras que no encajan en
+ningún patrón lógico. No son sobrevivientes normales. No tienen miedo. Aparecen
+donde no deberían y venden lo que nadie debería tener.
+
+Ellos mismos tienen un nombre para lo que son: Trolelotes.
+
+Eddie nunca entiende del todo qué significa eso.
+Ellos tampoco se molestan en explicarlo.
+
+================================================================================
+LINCE — "El Gato"
+================================================================================
+
+Lema: "Hasta un trozo de metal con las joyas correctas vale oro."
+
+Apariencia: Gato de pelaje crema con ojos dorados. Sudadera negra, pantalón
+negro. Apariencia tranquila y aparentemente tierna. Exactamente la trampa que
+parece.
+
+Personalidad: Sarcástico, directo, encontrará cualquier excusa para burlarse
+de Eddie. Sus comentarios duelen porque siempre tienen algo de verdad.
+Gran ayuda si de armas se trata.
+
+LO QUE VENDE:
+- Armas y modificadores
+- Mejoras de armamento
+- Materiales para fabricar explosivos
+- Munición artesanal
+- Cuchillos improvisados
+
+INTERACCIÓN ESPECIAL — COMPRA Y VENTA:
+Eddie puede venderle objetos valiosos encontrados en el mundo. Lince evalúa
+cada objeto con una mirada y da su precio. Puede dar tratos especiales
+dependiendo del objeto. Si intentas regatear, Lince cierra la transacción
+y te mira fijo hasta que te vayas.
+
+CURIOSIDAD:
+Lince cuida a alguien. No dice quién. No acepta preguntas al respecto.
+Si Eddie se acerca a cierta dirección sin haber ganado la confianza del gato,
+escuchará el sonido de un arma siendo amartillada antes de ver nada.
+
+================================================================================
+NOCTHYR — "El Chico del Dragón"
+================================================================================
+
+Lema: "No salvo la vida de las personas. Solo evito que mueran pronto."
+
+Apariencia: Joven de piel oscura, cabello blanco, mirada seria y calculadora.
+Lo acompaña un dragón rojo de tamaño mediano que no habla, no ataca, y no hace
+nada excepto observarte con una expresión que comunica claramente que no le
+agradas.
+
+Personalidad: Habla poco. Cuando lo hace, va directo al punto. No hace amigos
+fácilmente pero tampoco hace enemigos por gusto.
+
+LO QUE VENDE:
+- Venenos para armas cuerpo a cuerpo y munición especial
+- Curaciones avanzadas de origen incierto
+- Mejoras biológicas temporales
+
+SISTEMA DE VENENOS:
+Aplicables a cuchillos, hachas y munición. Cada veneno tiene efecto distinto:
+  · Parálisis
+  · Daño continuo
+  · Desorientación
+  · Eliminación silenciosa (casos extremos)
+Las balas envenenadas tienen usos específicos que el jugador descubre
+experimentando.
+
+CURIOSIDAD:
+Nocthyr no es su nombre real. Solo Lince y El Héroe del Chocomilk lo saben.
+Si Eddie pregunta directamente, Nocthyr lo ignora o desvía la conversación.
+Si Eddie escucha a los otros dos mencionar su nombre verdadero, el audio se
+convierte en estática o palabras sin sentido.
+El juego nunca revela el nombre verdadero.
+
+================================================================================
+EL HÉROE DEL CHOCOMILK
+================================================================================
+
+Lema: "Porque yo ya no puedo mejorar. Alguien tiene que hacerlo."
+
+Apariencia: Sin nombre oficial. Ropa común, algo desgastada. Expresión que
+mezcla aburrimiento absoluto con curiosidad genuina si te esfuerzas en
+interpretarla. Aparece sentado detrás de una mesa de madera en el bosque que
+definitivamente no estaba ahí antes.
+
+Personalidad: No parece tener miedo de nada. Porque literalmente no puede
+tenerlo. Ya vio el peor escenario posible y fue absorbido por él.
+Filosofía barata que siempre tiene razón.
+
+LO QUE VENDE:
+- Misiones secundarias con recompensas únicas
+- Información sobre el mundo, infectados y zonas inexploradas
+- "Progreso garantizado" (contenido varía según lo que Eddie necesita)
+
+SISTEMA DE MISIONES:
+Las misiones son opcionales pero sus recompensas son las más valiosas del juego.
+Cada misión está diseñada para:
+  · Llevar a Eddie a lugares que normalmente evitaría
+  · Enfrentarlo con enemigos que requieren estrategia específica
+  · Revelar fragmentos de lore sobre el mundo y los Trolelotes
+
+CURIOSIDADES:
+Si Eddie pregunta por qué hace esto:
+"Porque yo ya no puedo mejorar. Alguien tiene que hacerlo."
+
+Si Eddie pregunta qué era antes:
+"Alguien que bebía mucho chocomilk."
+
+No elabora más.
+
+--------------------------------------------------------------------------------
+DINÁMICA ENTRE LOS TROLELOTES
+--------------------------------------------------------------------------------
+
+Los tres se conocen. No está claro desde cuándo ni cómo.
+
+Cuando Eddie los encuentra juntos:
+- Lince se burla de Eddie con comentarios afilados.
+- El Héroe del Chocomilk observa con calma y añade algo que suena a
+  filosofía barata pero que siempre tiene razón.
+- Nocthyr no dice nada. Su dragón tampoco. Ambos miran.
+
+Ninguno explica su origen. Ninguno responde preguntas directas sobre su
+naturaleza. El jugador puede juntar fragmentos a través de diálogos opcionales,
+pero el cuadro completo nunca se termina de armar.
+
+Eso es intencional.
+
+--------------------------------------------------------------------------------
+FINAL
+--------------------------------------------------------------------------------
+
+El final depende de las decisiones acumuladas de Eddie a lo largo del recorrido.
+No hay una elección final dramática, sino el resultado natural de cómo jugaste.
+
+Lo que sí es constante: Eddie llega a Punto Cero.
+Sus padres están ahí o no están.
+
+En la última escena, antes de que los créditos corran, hay una mesa en algún
+rincón del refugio militar. Detrás de ella, alguien esperando.
+
+Eddie no dice nada.
+El Héroe del Chocomilk tampoco.
+
+Pero en la mesa hay una nota que dice:
+
+        "Bien hecho. Eso fue solo el primer nivel."
+
+================================================================================
+                              FIN DEL DOCUMENTO
+================================================================================
