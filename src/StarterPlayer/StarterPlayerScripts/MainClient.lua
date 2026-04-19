@@ -43,6 +43,12 @@ local mouse = LocalPlayer:GetMouse()
 function Client.init()
     Utility.log("MainClient", "Inicializando cliente...")
 
+    -- Esperar a que los remotes existan
+    local Remotes = ReplicatedStorage:WaitForChild("Remotes")
+    if Remotes then
+        Utility.log("MainClient", "Remotes encontrados")
+    end
+
     -- Inicializar sistemas
     AudioManager.init()
 

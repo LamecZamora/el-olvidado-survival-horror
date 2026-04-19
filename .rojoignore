@@ -1,0 +1,28 @@
+# Rojo Ignore File - El Olvidado
+
+# Git
+.git/
+.gitignore
+
+# Documentación
+*.md
+docs/
+historias de personajes/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Node modules (si usas algún paquete npm)
+node_modules/
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Builds anteriores
+*.rbxl
+*.rbxm
+
+# Configurations locales
+*.local.json

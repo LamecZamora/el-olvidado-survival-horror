@@ -67,6 +67,14 @@ function Server.loadModules()
         Utility.error("MainServer", "SaveManager no cargado correctamente")
     end
 
+    -- Cargar y inicializar Remotes
+    local Remotes = require(ReplicatedStorage.Remotes.Remotes)
+    Remotes.init()
+
+    -- Cargar RemoteHandler
+    local RemoteHandler = require(ServerScriptService.Servers.RemoteHandler)
+    RemoteHandler.init()
+
     Utility.log("MainServer", "Módulos cargados")
 end
 
